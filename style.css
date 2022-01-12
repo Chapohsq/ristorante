@@ -1,0 +1,37 @@
+h1{
+color: crimson;
+background-color: rgb(18, 201, 185);
+width: 20%;
+height: 38px;
+/* min-width: 200px;
+max-width: 400px; */
+/* height: 40px; */
+/* min-height: 200px;              QUESTE SONO TUTTE REGOLE SULLE DIMENSIONI
+max-height: 400px; */
+/* overflow: hidden; */
+/* overflow-y: scroll; */
+
+ margin: 20px;   
+ padding: 20px;  
+ /* QUESTI DUE SONO I MARGINI FUORI O DENTRO MARGIN E PADDING */
+
+ /* margin-top: 200px;
+margin-left: 200px; */
+
+/* margin: 20px 10px 15px 5px; DARE VALORE A TUTTI E QUATTRO I MARGINI 
+margin: 20px 10px;  DARE VALORE SOLO A DUE MARGINI */
+}
+
+.header-subtitle{
+
+    color: green;
+
+}
+
+#pippo{
+
+    color: hotpink;
+
+}
+
+
